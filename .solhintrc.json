@@ -1,0 +1,31 @@
+{
+  "extends": "solhint:recommended",
+  "rules": {
+    "avoid-sha3": "off",
+    "code-complexity": ["warning", 7],
+    "compiler-version": ["error", "^0.8.24"],
+    "const-name-snakecase": "error",
+    "contract-name-camelcase": "error",
+    "event-name-camelcase": "error",
+    "func-name-mixedcase": "error",
+    "func-order": "warning",
+    "immutable-vars-naming": "error",
+    "line-length": ["warning", 120],
+    "max-line-length": ["warning", 120],
+    "max-states-count": ["warning", 15],
+    "multiple-inheritance": "warning",
+    "named-parameters-mapping": "warning",
+    "no-console": "warning",
+    "no-empty-blocks": "error",
+    "no-global-import-in-test": "off",
+    "no-inline-assembly": "warning",
+    "no-unused-vars": "error",
+    "ordering": "warning",
+    "payable-fallback": "warning",
+    "reason-string": ["warning", {"maxLength": 80}],
+    "state-visibility": "error",
+    "two-lines-top-level-separator": "warning",
+    "var-name-mixedcase": "error",
+    "visibility-modifier-order": "error"
+  }
+}
