@@ -2,6 +2,10 @@
 
 A production-ready FHEVM example demonstrating privacy-preserving training record management on blockchain with encrypted data storage and access control.
 
+[Privacy Training Record Tracker.mp4](https://streamable.com/mkg697)
+
+[Live Demo](https://privacy-training-record-tracker.vercel.app/)
+
 ## Overview
 
 Privacy Training Record Tracker is a standalone example repository showcasing Fully Homomorphic Encryption (FHE) implementation for confidential data management. This project demonstrates how organizations can track employee training completion while maintaining complete privacy of sensitive information through on-chain encryption.
