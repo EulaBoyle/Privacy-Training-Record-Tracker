@@ -1,0 +1,30 @@
+# Dependencies
+node_modules
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build
+dist
+build
+artifacts
+cache
+typechain-types
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store
+.env
+.env.local
+
+# Logs
+logs
+*.log
+
+# Generated files
+coverage
+gas-report.txt
+documentation/generated
