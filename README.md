@@ -2,7 +2,7 @@
 
 A production-ready FHEVM example demonstrating privacy-preserving training record management on blockchain with encrypted data storage and access control.
 
-[Privacy Training Record Tracker.mp4](https://streamable.com/mkg697)
+[Privacy Training Record Tracker.mp4](https://youtu.be/LyLBmLKl1DM)
 
 [Live Demo](https://privacy-training-record-tracker.vercel.app/)
 
